@@ -9,9 +9,6 @@
 2. Клонируйте репозиторий:   
    ```bash
    git clone https://github.com/имя_пользователя/pytest_ui_api_template.git
-3. Перейдите в директорию проекта:
-   ```bash
-   cd pytest_ui_api_template
 4. Установите зависимости:
    ```bash
    pip install -r requirements.txt
