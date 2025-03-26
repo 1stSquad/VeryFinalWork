@@ -1,4 +1,4 @@
-from BaseAPI import BaseAPI
+from API_PM.BaseAPI import BaseAPI
 
 
 class MovieAPI(BaseAPI):

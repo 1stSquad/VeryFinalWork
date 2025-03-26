@@ -1,6 +1,6 @@
 import pytest
 import allure
-from MovieAPI import MovieAPI
+from API_PM.MovieAPI import MovieAPI
 from config import BASE_URL, API_KEY
 
 @pytest.fixture
