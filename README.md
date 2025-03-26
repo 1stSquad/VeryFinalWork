@@ -23,24 +23,23 @@
 - requests
 
 ### Структура
-- final_project
-  - pytest_ui_api_template
-    - API
-      - __init__py
-      - BaseURL.py
-      - MovieAPI.py
-      - test_API.py
-    - UI
-      - pages
-        - __init__py
-        - MainPage.py
-      - __init__py
-      - test_UI
-    - .gitignore
+- VeryFinalWork
+  - API
     - __init__py
-    - config.py
-    - README.md
-    - requirements.txt
+    - BaseAPI.py
+    - MovieAPI.py
+    - test_API.py
+  - UI
+    - pages
+      - __init__py
+      - MainPage.py
+    - __init__py
+    - test_UI
+  - .gitignore
+  - __init__py
+  - config.py
+  - README.md
+  - requirements.txt
 
 ### Контакты
 - Автор: [Prokhorenko Maxim]("https://github.com/1stSquad")
